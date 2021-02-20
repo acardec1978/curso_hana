@@ -1,0 +1,3 @@
+service {
+	"CURSO_ACARDEC.db::Vendas.Clientes" as "ClientesSet";
+}

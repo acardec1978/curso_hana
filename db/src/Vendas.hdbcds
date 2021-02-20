@@ -1,0 +1,11 @@
+namespace CURSO_ACARDEC.db;
+
+context Vendas {
+	/*@@layout{"layoutInfo":{"x":-180,"y":30}}*/
+	entity Clientes {
+	    key codigo : Integer;
+	        nome   : String(30);
+	        ativo  : String(1);
+	};
+};
+
